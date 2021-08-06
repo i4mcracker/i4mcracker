@@ -8,3 +8,4 @@
 i4mcracker/i4mcracker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
+https://media.discordapp.net/attachments/871884660362346516/873215775249424464/coollogo_com-28331469.gif
